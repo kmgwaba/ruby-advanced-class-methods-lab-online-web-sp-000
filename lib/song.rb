@@ -13,7 +13,7 @@ class Song
     song = self.new
     self.all << song
     song
-  end 
+  end
 
   def self.new_by_name(title) #class constructor
     song = self.new
